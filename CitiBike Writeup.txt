@@ -1,0 +1,13 @@
+The purpose of this writeup is to detail some of my findings on the CitiBike analysis.
+
+One key finding of our research is that riders spend significantly more time on their bikes based on ride duration on the weekends as opposed to on weekdays.
+This suggests that riders on weekdays may be using CitiBike for shorter trips such as commutes, as opposed to more leisurely rides on the weekends.
+
+Our analysis also noted that a significant portion, over 90%, of users on which the riders gender is unknown were customers.  
+This indicates that CitiBike may have a hard time gaining demographic information on its riders if the rider is not subscribed to the service.
+
+In building the requested map for city officials, we noted that a majority of the most popular stations for starting their ride were located in lower Manhattan & around Central Park.
+However, there were some additional stations with high popularity outside of those areas, particularly around other parks.
+
+We also ntoed that while the most popular stations were very centralized to the Lower Manhattan & Central Park areas, the stations with the longest duration times were much more spread out, though still in Manhattan.
+This indicated to us that riders in Upper Manhattan tend to take longer rides, or maybe have longer commutes.
